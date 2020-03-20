@@ -1,5 +1,5 @@
 # hearIt
-Hifi processing for hearing impaired listeners on 
+Hifi processing for hearing impaired listeners
 
 
 hearIt is a VST plugin with the aim to process music or speech in a way that hearing impaired listeners will hear more details and understand speech better.
