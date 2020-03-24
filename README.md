@@ -10,5 +10,5 @@ Look in the provided 'Installation_Manual.pdf' to install 'EqualizerAPO' and set
 
 For recommendations or critics you are welcomed to contact under: azono.Audio@outlook.com
 
-azonoAudio was tested on Windows 10 (64 bit) machines only.\\ 
+azonoAudio was tested on Windows 10 (64 bit) machines only. \newline 
 !! azonoAudio is free to use. No warranty is provided, you use it on your own risk. !!
