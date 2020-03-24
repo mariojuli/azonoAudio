@@ -8,7 +8,7 @@ The processing of azonoAudio will reduce the volume of your system to avoid 'dig
 In conjuncten with 'EqualizerAPO' a system-wide real-time processing is possible. 
 Look in the provided 'Installation_Manual.pdf' to install 'EqualizerAPO' and set up azonoAudio for your system.
 
-For recommendations or critics you are welcomed to contact under: azono.Audio@outlook.com
+For recommendations or critics you are welcomed to contact: azono.Audio@outlook.com
 
 azonoAudio was tested on Windows 10 (64 bit) machines only.
 
