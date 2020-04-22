@@ -8,7 +8,7 @@ azonoAudio uses a multiband dynamic range compression which can be adjusted by t
 The schemes were designed to cover various hearing losses and listening preferences. 
 
 In conjuncten with 'EqualizerAPO' a system-wide real-time processing is possible. 
-This means that all sounds played back at your computer are enhanced, independent of the software used.
+This means that all sounds played back at your computer are enhanced, independent of the application used.
 Look in the provided 'Installation_Manual.pdf' to install 'EqualizerAPO' and set up azonoAudio for your system.
 Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. 
 Therefore, it's recommended to use azonoAudio with playback equipment that can provide sufficient amplification, e.g. headphone amplifier or HiFi speakers.
