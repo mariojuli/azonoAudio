@@ -5,9 +5,12 @@ Multimedia sound processing for people with hearing impairment
 Even though hearing aids offer advantages in most situations, hearing aid users often complain about a bad sound quality when listening to music via hearing aids.
 A reason is that the processing of hearing aids might be accurate, but the bandwidth and sound quality is limited due to the size of the devices.
 HiFi audio equipment on the other hand offers an excellent sound quality, but the sound is often described as muffled by hearing impaired listeners.
-That is where azonoAudio comes into place. 
-azonoAudio has the aim to process sounds in a way that hearing impaired listeners will hear more details and overall, more clarity with the existing HiFi equipment. 
-The focus of this project is to enhance music, nevertheless user report in an overall less listening effort when watching movies or listening to speech. 
+
+azonoAudio is a plugin for computers, which processes sound similar to a hearing aid. 
+It has the aim that the user will hear more details with the existing audio equipment.
+The advantage of this approach is that with a high-quality audio equipment, a high bandwidth and sound quality can be achieved.
+
+The focus of this project is to enhance music, nevertheless users report an overall less listening effort when watching movies or listening to speech. 
 azonoAudio uses a multiband dynamic range compression which can be adjusted by the user in predefined schemes. 
 The schemes were designed to cover various hearing losses and listening preferences.
 
