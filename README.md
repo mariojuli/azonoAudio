@@ -1,22 +1,28 @@
 # azonoAudio
-Multimedia sound processing for hearing impaired listeners
+Multimedia sound processing for people with hearing impairment
 
-
-azonoAudio is a VST-plugin with the aim to process sounds in a way that hearing impaired listeners will hear more details and overall more clarity with existing HiFi equipment. 
-The focus of this project is to enhance music, nevertheless user report in a overall less listening effort when watching movies or listening to speech.
+## Project Description
+Even though hearing aids offer advantages in most situations, hearing aid users often complain about a bad sound quality when listening to music via hearing aids.
+A reason is that the processing of hearing aids might be accurate, but the bandwidth and sound quality is limited due to the size of the devices.
+HiFi audio equipment on the other hand offers an excellent sound quality, but the sound is often described as muffled by hearing impaired listeners.
+That is where azonoAudio comes into place. 
+azonoAudio has the aim to process sounds in a way that hearing impaired listeners will hear more details and overall, more clarity with the existing HiFi equipment. 
+The focus of this project is to enhance music, nevertheless user report in an overall less listening effort when watching movies or listening to speech. 
 azonoAudio uses a multiband dynamic range compression which can be adjusted by the user in predefined schemes. 
-The schemes were designed to cover various hearing losses and listening preferences. 
+The schemes were designed to cover various hearing losses and listening preferences.
 
-In conjuncten with 'EqualizerAPO' a system-wide real-time processing is possible. 
-This means that all sounds played back at your computer are enhanced, independent of the application used.
-Look in the provided 'Installation_Manual.pdf' to install 'EqualizerAPO' and set up azonoAudio for your system.
-Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. 
-Therefore, it's recommended to use azonoAudio with playback equipment that can provide sufficient amplification, e.g. headphone amplifier or HiFi speakers.
+In conjunction with 'EqualizerAPO' a system-wide real-time processing is possible. 
+This means that all sounds played back at your computer are enhanced, independent of the application used. 
+Once set up, EqualizerAPO with azonoAudio will run in the background of your computer and no further user inputs are necessary.
 
-Your feedback help to improve the project! 
-Please contact azono.Audio@outlook.com
+## Installation
+Look in the provided [installation manual](Installation_Manual.pdf) to set up azonoAudio for your system and adjust it for your preferences. 
+ 
+Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. Therefore, it is recommended to use azonoAudio with playback equipment that can provide enough amplification, e.g. by using a headphone amplifier or HiFi speakers.
+
+Your feedback is valuable to improve the project! 
+If you have any suggestions or feedback, you are welcomed to contact: azono.Audio@outlook.com
 
 azonoAudio was tested on Windows 10 (32 bit and 64 bit) machines only.
 
-azonoAudio is free to use and is provided 'as it is'. 
-No warranty is provided, use at own risk!
+azonoAudio is free to use and is provided 'as it is'. No warranty is provided, use at own risk!
