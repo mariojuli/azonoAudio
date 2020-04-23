@@ -20,8 +20,9 @@ Look in the provided installation manual to set up azonoAudio for your system an
  [Installation manual](Installation_Manual.pdf)
 Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. Therefore, it is recommended to use azonoAudio with playback equipment that can provide enough amplification, e.g. by using a headphone amplifier or HiFi speakers.
 
+## Warranty and Support
 Your feedback is valuable to improve the project! 
-If you have any suggestions or feedback, you are welcomed to contact: azono.Audio@outlook.com
+If you have any suggestions or need support, you are welcomed to contact: azono.Audio@outlook.com
 
 azonoAudio was tested on Windows 10 (32 bit and 64 bit) machines only.
 
