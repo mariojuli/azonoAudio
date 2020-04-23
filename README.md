@@ -11,13 +11,13 @@ The focus of this project is to enhance music, nevertheless user report in an ov
 azonoAudio uses a multiband dynamic range compression which can be adjusted by the user in predefined schemes. 
 The schemes were designed to cover various hearing losses and listening preferences.
 
-In conjunction with 'EqualizerAPO' a system-wide real-time processing is possible. 
+In conjunction with the application EqualizerAPO, a system-wide real-time processing is possible. 
 This means that all sounds played back at your computer are enhanced, independent of the application used. 
 Once set up, EqualizerAPO with azonoAudio will run in the background of your computer and no further user inputs are necessary.
 
 ## Installation
-Look in the provided [installation manual](Installation_Manual.pdf) to set up azonoAudio for your system and adjust it for your preferences. 
- 
+Look in the provided installation manual to set up azonoAudio for your system and adjust it for your preferences. 
+ [Installation manual](Installation_Manual.pdf)
 Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. Therefore, it is recommended to use azonoAudio with playback equipment that can provide enough amplification, e.g. by using a headphone amplifier or HiFi speakers.
 
 Your feedback is valuable to improve the project! 
