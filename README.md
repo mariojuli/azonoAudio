@@ -16,8 +16,7 @@ This means that all sounds played back at your computer are enhanced, independen
 Once set up, EqualizerAPO with azonoAudio will run in the background of your computer and no further user inputs are necessary.
 
 ## Installation
-Look in the provided installation manual to set up azonoAudio for your system and adjust it for your preferences. 
- [Installation manual](Installation_Manual.pdf)
+Look in the provided [installation manual] (Installation_Manual.pdf) to set up azonoAudio for your system and adjust it for your preferences. 
 Please be aware that azonoAudio will reduce the volume of your system to avoid distortions. Therefore, it is recommended to use azonoAudio with playback equipment that can provide enough amplification, e.g. by using a headphone amplifier or HiFi speakers.
 
 ## Warranty and Support
